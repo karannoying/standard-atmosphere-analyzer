@@ -1,0 +1,11 @@
+📖 Usage Guide
+Web Application
+The main application provides four analysis tabs:
+
+1.Atmosphere Overview: View how temperature, pressure, and density change with altitude
+
+2.Single Point Analysis: Get detailed atmospheric and performance data at specific conditions
+
+3.Performance Curves: See how aircraft performance varies with altitude
+
+4.Thrust-Drag Analysis: Analyze the relationship between velocity and required thrust
