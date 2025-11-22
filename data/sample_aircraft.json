@@ -1,0 +1,44 @@
+{
+  "aircraft_types": {
+    "boeing_737": {
+      "name": "Boeing 737-800",
+      "wing_area": 125.0,
+      "mass": 70000.0,
+      "max_lift_coeff": 1.8,
+      "zero_lift_drag": 0.02,
+      "oswald_efficiency": 0.85,
+      "aspect_ratio": 9.5,
+      "description": "Medium-range narrow-body airliner"
+    },
+    "airbus_a320": {
+      "name": "Airbus A320",
+      "wing_area": 122.6,
+      "mass": 73500.0,
+      "max_lift_coeff": 1.9,
+      "zero_lift_drag": 0.019,
+      "oswald_efficiency": 0.87,
+      "aspect_ratio": 9.4,
+      "description": "Medium-range narrow-body airliner"
+    },
+    "cessna_172": {
+      "name": "Cessna 172 Skyhawk",
+      "wing_area": 16.2,
+      "mass": 1111.0,
+      "max_lift_coeff": 1.6,
+      "zero_lift_drag": 0.031,
+      "oswald_efficiency": 0.75,
+      "aspect_ratio": 7.5,
+      "description": "Light single-engine aircraft"
+    },
+    "business_jet": {
+      "name": "Generic Business Jet",
+      "wing_area": 30.0,
+      "mass": 10000.0,
+      "max_lift_coeff": 2.0,
+      "zero_lift_drag": 0.015,
+      "oswald_efficiency": 0.82,
+      "aspect_ratio": 8.0,
+      "description": "Typical business jet configuration"
+    }
+  }
+}
