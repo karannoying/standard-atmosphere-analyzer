@@ -34,7 +34,8 @@ A comprehensive Python application that implements the International Standard At
    ```bash
    streamlit run main.py
 4. Open your browser to the displayed URL (typically http://localhost:8501)
-
+ 
+ ```bash
 📖 Usage Guide
 Web Application
 The main application provides four analysis tabs:
@@ -68,7 +69,7 @@ metrics = performance.performance_at_condition(10000, 250)
 print(f"Required thrust: {metrics['required_thrust']/1000:.2f} kN")
 
 🛠️ Project Structure
- ```bash
+
 standard-atmosphere-analyzer/
 ├── src/                 # Core Python modules
 ├── examples/            # Example scripts and usage patterns
