@@ -68,7 +68,7 @@ metrics = performance.performance_at_condition(10000, 250)
 print(f"Required thrust: {metrics['required_thrust']/1000:.2f} kN")
 
 🛠️ Project Structure
-text
+ ```bash
 standard-atmosphere-analyzer/
 ├── src/                 # Core Python modules
 ├── examples/            # Example scripts and usage patterns
@@ -82,41 +82,41 @@ standard-atmosphere-analyzer/
 📊 Sample Outputs
 Atmospheric Properties:
 
-1.Temperature profile from sea level to 50,000 meters
-2.Pressure and density variations
-3.Speed of sound calculations
-4.Aircraft Performance
-5.Lift and drag forces
-6.Required thrust for level flight
-7.Lift-to-drag ratios
-8.Stall speed calculations
-9.Aerodynamic coefficients
+-Temperature profile from sea level to 50,000 meters
+-Pressure and density variations
+-Speed of sound calculations
+-Aircraft Performance
+-Lift and drag forces
+-Required thrust for level flight
+-Lift-to-drag ratios
+-Stall speed calculations
+-Aerodynamic coefficients
 
 🎯 Educational Value
 This project is ideal for:
 
-1.Aerospace engineering students
-2.Aviation enthusiasts
-3.Flight simulation developers
-4.Researchers studying atmospheric physics
-5.Pilots wanting to understand performance principles
+-Aerospace engineering students
+-Aviation enthusiasts
+-Flight simulation developers
+-Researchers studying atmospheric physics
+-Pilots wanting to understand performance principles
 
 🤝 Contributing
 We welcome contributions! Please feel free to submit pull requests, report bugs, or suggest new features.
 
-1.Fork the repository
-2.Create a feature branch (git checkout -b feature/amazing-feature)
-3.Commit your changes (git commit -m 'Add some amazing feature')
-4.Push to the branch (git push origin feature/amazing-feature)
-5.Open a Pull Request
+-Fork the repository
+-Create a feature branch (git checkout -b feature/amazing-feature)
+-Commit your changes (git commit -m 'Add some amazing feature')
+-Push to the branch (git push origin feature/amazing-feature)
+-Open a Pull Request
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙏 Acknowledgments
-1.International Standard Atmosphere model based on ISO 2533:1975
-2.Aircraft performance equations from fundamental aerodynamics
-3.Built with Streamlit, NumPy, SciPy, and Matplotlib
+-International Standard Atmosphere model based on ISO 2533:1975
+-Aircraft performance equations from fundamental aerodynamics
+-Built with Streamlit, NumPy, SciPy, and Matplotlib
 
 📞 Support
 If you have any questions or run into issues:
