@@ -27,3 +27,10 @@ A comprehensive Python application that implements the International Standard At
    ```bash
    git clone https://github.com/yourusername/standard-atmosphere-analyzer.git
    cd standard-atmosphere-analyzer
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   streamlit run main.py
+4. Open your browser to the displayed URL (typically http://localhost:8501)
