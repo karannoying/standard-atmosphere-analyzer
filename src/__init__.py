@@ -7,14 +7,14 @@ This package provides:
 - Professional visualization capabilities
 - Educational tools for aerospace engineering
 
-Author: Your Name
+Author: Kumar Karan Bohidar
 Version: 1.0.0
 License: MIT
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "Kumar Karan Bohidar"
+__email__ = "kumar.25bas10049@vitbhopal.ac.in"
 
 # Import key classes to make them available at package level
 from .atmosphere_model import StandardAtmosphere
