@@ -9,12 +9,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="standard-atmosphere-analyzer",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Kumar Karan Bohidar",
+    author_email="kumar.25bas10049@vitbhopal.ac.in",
     description="International Standard Atmosphere model and aircraft performance analyzer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/standard-atmosphere-analyzer",
+    url="https://github.com/karannoying/standard-atmosphere-analyzer",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
