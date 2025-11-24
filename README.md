@@ -25,7 +25,7 @@ A comprehensive Python application that implements the International Standard At
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/standard-atmosphere-analyzer.git
+   git clone https://github.com/karannoying/standard-atmosphere-analyzer.git
    cd standard-atmosphere-analyzer
 2. Install required packages:
    ```bash
